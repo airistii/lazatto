@@ -1,0 +1,42 @@
+.body{
+background-color: lemonchiffon;
+}
+.main-color{
+    background-color: rgb(209, 62, 62) !important;
+}
+
+
+
+.navbar-expand-lg{
+    background-color: rgb(209, 62, 62) !important;
+   
+}
+.navbar-nav a{
+    text-decoration: none;
+    color: honeydew;
+
+}
+
+.navbar-expand-lg span{
+    color: azure !important;
+    
+}
+
+.color-text{
+    color: crimson;
+    background-color: yellow;
+
+}
+
+.row btn-group{
+    color: aliceblue;
+}
+
+.text-scolor{
+    color: brown;
+}
+
+.color-text-bg{
+    color: yellow;
+    background-color: crimson;
+}
